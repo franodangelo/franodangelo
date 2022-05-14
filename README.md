@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Franco D'Angelo and I'm a Full Stack Developer based in Buenos Aires, Argentina!
+## 👋 Hi, I'm Franco D'Angelo: a Full Stack Developer based in Buenos Aires, Argentina!
 
 👀 I'm interested in working in technology to help with all my knowledge in development and UX design. I am currently looking for my first job in IT!
 
