@@ -9,7 +9,7 @@ Full'Stack Developer & UX/UI Designer
 *   🌍  I'm based in Buenos Aires, Argentina
 *   🖥️  See my portfolio at [Behance](http://www.behance.net/francodangelo)
 *   ✉️  You can contact me at [ffrancodangelo@gmail.com](mailto:ffrancodangelo@gmail.com)
-*   🧠  I'm learning React Native
+*   🧠  I'm learning React Native & tailwindcss
 
 ### Skills
 
