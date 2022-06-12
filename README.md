@@ -4,13 +4,14 @@ Hi 👋 My name is Franco D'Angelo
 Full'Stack Developer & UX/UI Designer
 -------------------------------------
 
-👀 I'm interested in working in technology to help with all my knowledge in development and UX design. I am currently looking for my first job in IT!  
-💞️ I’m looking to collaborate in social impact projects, in which I can really solve people's needs. The projects that interest me the most are those related to products, entertainment and sports.
+* 👀 I'm interested in working in technology to help with all my knowledge in development and UX design. I am currently looking for my first job in IT!  
+* 💞️ I’m looking to collaborate in social impact projects, in which I can really solve people's needs. The projects that interest me the most are those related to products, entertainment and sports.
 
-*   🌍  I'm based in Buenos Aires, Argentina
-*   🖥️  See my portfolio at [Behance](http://www.behance.net/francodangelo)
+*   🌍  I'm based in Buenos Aires, Argentina.
+*   🧠  I’m currently learning JavaScript, React, Redux, Node Js, Express & PostgreSQL.
 *   ✉️  You can contact me at [ffrancodangelo@gmail.com](mailto:ffrancodangelo@gmail.com)
-*   🧠  I’m currently learning JavaScript, React, Redux, Node Js, Express & PostgreSQL. 
+*   🖥️  See my portfolio at [Behance](http://www.behance.net/francodangelo)
+ 
 
 ### Skills
 
