@@ -10,8 +10,6 @@ Full'Stack Developer & UX/UI Designer
 *   🌍  I'm based in Buenos Aires, Argentina.
 *   🧠  I’m currently learning JavaScript, React, Redux, Node Js, Express & PostgreSQL.
 *   ✉️  You can contact me at [ffrancodangelo@gmail.com](mailto:ffrancodangelo@gmail.com)
-*   🖥️  See my portfolio at [Behance](http://www.behance.net/francodangelo)
- 
 
 ### Skills
 
