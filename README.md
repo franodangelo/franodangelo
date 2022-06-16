@@ -1,7 +1,7 @@
 Hi 👋 My name is Franco D'Angelo
 ================================
 
-Full'Stack Developer & UX/UI Designer
+Full-Stack Developer & UX/UI Designer
 -------------------------------------
 
 * 👀 I'm interested in working in technology to help with all my knowledge in development and UX design. I am currently looking for my first job in IT!  
