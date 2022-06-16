@@ -1,4 +1,4 @@
-Hi 👋 My name is Franco D'Angelo
+👋 Hi, I'm Franco D'Angelo!
 ================================
 
 Full-Stack Developer & UX/UI Designer
