@@ -2,6 +2,7 @@
 ================================
 
 Full-Stack Developer & UX/UI Designer
+-------------------------------------
 
 * 👀 I'm interested in working in technology to help with all my knowledge in development and UX design. I am currently looking for my first job in IT!  
 * 💞️ I’m looking to collaborate in social impact projects, in which I can really solve people's needs. The projects that interest me the most are those related to products, entertainment and sports.
