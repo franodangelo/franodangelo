@@ -8,7 +8,7 @@ Full-Stack Developer & UX/UI Designer
 * 💞️ I’m looking to collaborate in social impact projects, in which I can really solve people's needs. The projects that interest me the most are those related to products, entertainment and sports.
 
 *   🌍  I'm based in Buenos Aires, Argentina.
-*   🧠  I’m currently learning JavaScript, React, Redux, Node Js, Express & PostgreSQL.
+*   🧠  I’m currently learning JavaScript, React, Redux, Node Js, Express & PostgreSQL. I also want to work with Typescript & React Native.
 *   ✉️  You can contact me at [ffrancodangelo@gmail.com](mailto:ffrancodangelo@gmail.com)
 
 ### Skills
