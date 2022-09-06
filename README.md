@@ -1,4 +1,4 @@
-Connect with me in [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/franco-dangelo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/franco-dangelo/)
 
 # 💫 About Me:
 👀 I'm interested in working in technology to help with all my knowledge in development. I am currently looking for my first job in IT!
