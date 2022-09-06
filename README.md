@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=franodangelo&icon=8&color=10)](https://visitcount.itsvg.in)
+Connect with me in [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/franco-dangelo/)
 
 # 💫 About Me:
 👀 I'm interested in working in technology to help with all my knowledge in development. I am currently looking for my first job in IT!
@@ -14,8 +14,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=franodangelo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=franodangelo&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/francodangelo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/franco-dangelo/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@techfrano) 
+[![](https://visitcount.itsvg.in/api?id=franodangelo&icon=8&color=10)](https://visitcount.itsvg.in)
 
 <!---
 franodangelo/franodangelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
