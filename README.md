@@ -1,9 +1,4 @@
-👋 Hi, I'm Franco D'Angelo!
-
 [![](https://visitcount.itsvg.in/api?id=franodangelo&icon=8&color=10)](https://visitcount.itsvg.in)
-================================
-A Full-Stack Developer based in Buenos Aires, Argentina! 🌍
----
 
 # 💫 About Me:
 👀 I'm interested in working in technology to help with all my knowledge in development. I am currently looking for my first job in IT!
