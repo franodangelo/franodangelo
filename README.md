@@ -34,6 +34,8 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=franodangelo&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 [![](https://visitcount.itsvg.in/api?id=franodangelo&icon=8&color=10)](https://visitcount.itsvg.in)
 
 <!---
