@@ -1,4 +1,4 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-dangelo/)
+![Banner image](https://media-exp1.licdn.com/dms/image/C4D16AQGPbF_NVR83Aw/profile-displaybackgroundimage-shrink_350_1400/0/1663114861900?e=1675296000&v=beta&t=FejG8o0uABChDNMTM7M3k_Q7jfqNNl8qZDkNwYA7sAE)
 
 # 💫 About Me:
 👀 I'm interested in working in technology to help with all my knowledge in development.
