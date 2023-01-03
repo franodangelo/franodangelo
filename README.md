@@ -2,9 +2,8 @@
 
 # 💫 About Me:
 👀 I'm interested in working in technology to help with all my knowledge in development.
-<br>🔎 I’m looking to collaborate in social impact projects, in which I can really solve people's needs. 
-<br>💡 The projects that interest me the most are those related to products, entertainment and sports.
-<br>🧠  I’m currently learning Next.js & Mobile design.
+<br>🔎 I’m looking to collaborate in social impact projects, in which I can really solve people's needs.
+<br>🧠  I’m currently learning Next.js & Mobile development.
 <br>✉️  You can contact me at ffrancodangelo@gmail.com or chat with me in Linkedin.
 
 # 💻 Tech Stack:
