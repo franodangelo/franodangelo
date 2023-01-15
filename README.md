@@ -1,4 +1,4 @@
-![The Adafruit Discord Badge](https://github.com/franodangelo/franodangelo/blob/main/assets/github-header-image.png)
+![Full Stack Banner](https://github.com/franodangelo/franodangelo/blob/main/assets/LinkedinBanner3(1).png)
 
 ## 💫 About Me
 👦 I'm from Argentina, I play a lot of sports and I really enjoy having fun with animals or just spend some hours watching fiction series.
