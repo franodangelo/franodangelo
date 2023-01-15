@@ -45,7 +45,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](url)
 -->
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,tailwind,redux,nextjs,bootstrap,sass,vite,ts,nodejs,express,postgres,git&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,redux,nextjs,html,css,tailwind,sass,bootstrap,vite,ts,nodejs,express,postgres,git&perline=10)](https://skillicons.dev)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=franodangelo&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D&ring=AD254C)](https://git.io/streak-stats)
 
