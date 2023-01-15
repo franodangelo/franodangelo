@@ -1,3 +1,5 @@
+![The Adafruit Discord Badge](https://github.com/franodangelo/franodangelo/blob/main/assets/github-header-image.png)
+
 ## 💫 About Me
 👦 I'm from Argentina, I play a lot of sports and I really enjoy having fun with animals or just spend some hours watching fiction series.
 <br>👀 A few years ago I started to learn about **user experience** design and then I boosted myself into **programming** to became a developer.
