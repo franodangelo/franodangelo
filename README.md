@@ -1,7 +1,8 @@
-## 💫 About Me:
-👀 I'm interested in working in technology to help with all my knowledge in development.
-<br>🔎 I’m looking to collaborate in social impact projects, in which I can really solve people's needs.
-<br>🧠  I’m currently learning <strong>TypeScript</strong>.
+## 💫 About Me
+👦 I'm from Argentina, I play a lot of sports and I really enjoy having fun with animals or just spend some hours watching fiction series.
+<br>👀 A few years ago I started to learn about **user experience** design and then I boosted myself into **programming** to became a developer.
+<br>🎨 I am passionate about the **frontend**, an area where I can perfectly combine both backgrounds and take my skills to the top.
+<br>🧠 I’m currently learning **TypeScript**.
 <br>
 ### Get in touch!
 <a href="mailto:ffrancodangelo@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
