@@ -1,11 +1,9 @@
 ![Frontend Banner](https://github.com/franodangelo/franodangelo/blob/main/assets/LinkedinBannerUpdate(1).png)
 
 ## 💫 About Me
-👦 I'm from Argentina, I play a lot of sports and I really enjoy having fun with animals or just spend some hours watching fiction series.
-<br>👀 A few years ago I started to learn about **user experience** design and then I boosted myself into **programming** to became a developer.
-<br>🎨 I am passionate about the **frontend**, an area where I can perfectly combine both backgrounds and take my skills to the top.
-<br>🧠 I’m currently learning **TypeScript**.
-<br>
+I’m a Frontend Developer with a foundation in UX/UI design and Full Stack Web Development.
+<br/>Skilled in JavaScript, React, Next.js, Redux, and Tailwind, I create efficient, user-centered web solutions—especially for e-commerce. My experience with Agile and SCRUM methodologies, coupled with a background in customer experience, allows me to deliver high-performance products that meet both business and user needs.
+<br/>I'm passionate about building intuitive applications and enhancing user experiences through innovative, thoughtful design.
 ### Get in touch!
 <a href="mailto:ffrancodangelo@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/franco-dangelo" target="_blank" rel="noreferrer">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
